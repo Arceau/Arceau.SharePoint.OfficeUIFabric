@@ -1,0 +1,35 @@
+{
+  "name": "arceau.sharepoint.officeuifabric",
+  "version": "1.0.0",
+  "description": "A simple project to get started using React and Office UI Fabric without SPFx",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/sharepoint": "^2013.0.31",
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-polyfill": "^6.20.0",
+    "babel-preset-es2015": "^6.18.0",
+    "glob": "^7.1.1",
+    "gulp": "^3.9.1",
+    "gulp-spsync": "^1.5.4",
+    "gulp-util": "^3.0.7",
+    "office-ui-fabric": "^2.6.2",
+    "office-ui-fabric-react": "^0.82.2",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "request": "^2.79.0",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.4",
+    "typings": "^2.1.0",
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+} 
